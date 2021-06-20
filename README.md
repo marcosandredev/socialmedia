@@ -1,2 +1,2 @@
-# socialmedia
-Projeto feito apenas com html e css
+# Socialmedia
+Projeto criado apenas com html e css, utilizando deploy com Netlify
