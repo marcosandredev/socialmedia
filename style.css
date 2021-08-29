@@ -78,6 +78,10 @@ section ul li:hover{
   background: linear-gradient(to right, #0866C2, #044d96);
 }
 
+.portfolio {
+  background: linear-gradient(to right,  #1A6DFF, #536DFE, #445ad6, #772ce8, #765dca);
+}
+
 .twitch {
   background: linear-gradient(to right, #772ce8, #765dca);
 }
